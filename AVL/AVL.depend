@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444642927 source:d:\amey\avl\main.cpp
+	<iostream>
+	<fstream>
+
