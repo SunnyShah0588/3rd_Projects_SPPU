@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444642019 source:d:\amey\dic2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
